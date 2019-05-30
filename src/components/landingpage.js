@@ -19,7 +19,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | JQuery</p>
+          <p>HTML/CSS | Bootstrap | JavaScript | React | Redux | NodeJS | Ajax | JQuery</p>
 
         <div className="social-links">
 
@@ -33,9 +33,9 @@ class Landing extends Component {
             <i className="fa fa-github-square" aria-hidden="true" />
           </a>
 
-          {/* Freecodecamp */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-free-code-camp" aria-hidden="true" />
+          {/* instagram*/}
+          <a href="https://www.instagram.com/brycesoghigian/?hl=en" rel="noopener noreferrer" target="_blank">
+          <i className="fab fa-instagram" aria-hidden="true">
           </a>
 
           {/* Youtube */}
